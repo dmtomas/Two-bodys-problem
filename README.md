@@ -5,5 +5,11 @@ This simulation may be usefull to know what to expect on scattering problems.
 
 2- Writte the force that you want to visualize.
 
+#Librarys needed:
+-Turtle
+
+-Math
+
 # Force recomended with the default settings (similar to gravitational).
 -19999999999999999999/r**2
+
