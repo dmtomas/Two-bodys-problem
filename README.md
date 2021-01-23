@@ -1,2 +1,7 @@
 # Two-bodys-problem
-A simulation aproximating the problem with 2 bodys that experiment any central force using turtle.
+1- Change the initial conditions if you want on the code.
+2- Writte the force that you want to visualize.
+
+
+# Force recomended with the default settings (similar to gravitational).
+-19999999999999999999/r**2
